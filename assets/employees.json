@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Aman Poddar", "years": 7, "isActive": true},
+  {"id": 2, "name": "Abhiyodaya Pandey", "years": 3, "isActive": false},
+  {"id": 3, "name": "Akrist Srivastava", "years": 6, "isActive": true},
+  {"id": 4, "name": "Varnit Singh", "years": 2, "isActive": true},
+  {"id": 5, "name": "Anshu Singh", "years": 5, "isActive": true},
+  {"id": 6, "name": "Shivam Yadav", "years": 8, "isActive": true},
+  {"id": 7, "name": "Aryan Singh", "years": 4, "isActive": true},
+  {"id": 8, "name": "Ayush Gupta", "years": 6, "isActive": true},
+  {"id": 9, "name": "Vardan Srivastava", "years": 5, "isActive": true},
+  {"id": 10, "name": "Shiv Shankar Singh", "years": 8, "isActive": true}
+]
